@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepak Kumar currently studying in 2nd year at IIT Mandi
+- 👋 Hi, I’m Deepak Kumar currently studying in 4th year at IIT Mandi
 - 👀 I’m interested in Data structures and Algorithms and Full Stack Development (Software Development)
 - 🌱 I’m currently learning Data Structures and Algorithms , React , MySQL and NodeJS. 
 - 💞️ I’m looking to collaborate on [Deepak Kumar](https://in.linkedin.com/in/deepak-kumar-173a13207)
